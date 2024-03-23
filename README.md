@@ -10,7 +10,7 @@
 
 - :seedling: Студент 3 курса НГТУ.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Friney) [![Gmail Badge](https://img.shields.io/badge/-red?style=flat&logo=Gmail&logoColor=white)](mailto:bso210403@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Friney) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bso210403@gmail.com)
 
 ## Технологии
 
@@ -24,6 +24,12 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" alt="VS Code" width="40" height="40"/></a>
 </p>
 
+## Социальные сети:
+
+<div id="badges">
+  <a href="https://t.me/Friney" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" /></a>
+  <a href="https://vk.com/ifrineyi" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/></a>
+</div>
 
 <!-- Ссылки для создания readme:
 1) коллекция классных Readme - https://github.com/abhisheknaiidu/awe...
