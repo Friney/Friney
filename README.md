@@ -1,14 +1,14 @@
 # Привет, меня зовут Борзенков Сергей! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Я начинающий разработчик. Студент 4 курса НГТУ, так же учусь в Школе 21 от Сбера. 
+Я начинающий разработчик. Студент 2 курса магистратуры НГТУ, так же закончил Школу 21 от Сбера. 
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Учусь в Школе 21 - образовательный проект от Сбер для разработчиков.
+- :telescope: Закончил обучение в Школе 21 - образовательный проект от Сбер для разработчиков.
 
-- :seedling: Студент 4 курса НГТУ.
+- :seedling: Студент 2 курса магистратуры НГТУ.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/BorzenkovSO) [![VK Badge](https://img.shields.io/badge/VK-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/ifrineyi) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bso210403@gmail.com)
 
